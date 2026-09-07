@@ -1,0 +1,12 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "$fn": "360",
+            "newInnerDiameter": "5",
+            "newLength": "20",
+            "oldInnerDiameter": "6",
+            "oldLength": "20"
+        }
+    }
+}
