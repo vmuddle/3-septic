@@ -1,0 +1,10 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "spacing20": {
+            "rigidPortDiameter": "5.5",
+            "rigitPortLength": "10",
+            "rigitPortThickness": "1.5"
+        }
+    }
+}
